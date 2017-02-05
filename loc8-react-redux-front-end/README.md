@@ -1,4 +1,4 @@
-# ![Loc8 app](project-logo.png)
+# ![Loc8 app]
 
 > [Source](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
