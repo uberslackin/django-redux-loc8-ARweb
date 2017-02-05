@@ -1,4 +1,4 @@
-# ![Loc8 Django API](project-logo.png)
+# ![Loc8 Django API]
 
 > Django DRF codebase built initially to adhere to this [API spec](https://github.com/gothinkster/realworld-example-apps).
 
