@@ -8,6 +8,14 @@
 
  https://www.youtube.com/watch?v=xsSnOQynTHs  "Tools don't exist in a vacuum" - Dan Abramov
 
+
+  Screen Shot 2017-02-07 at 2.56.50 AM.png
+
+![Redux]("Screen Shot 2017-02-07 at 2.56.50 AM.png" "all state in the app is controlled by the one root store")
+
+
+
+
 ## Getting started
 
 To get the frontend running locally:
