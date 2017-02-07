@@ -1,6 +1,6 @@
 # ![Loc8 app]
 
-> [Source](https://github.com/gothinkster/realworld-example-apps) spec and API.
+> [Project Seed:](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
 # Redux codebase containing real world examples (CRUD, auth, advanced patterns, etc)
 
