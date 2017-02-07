@@ -2,8 +2,12 @@
 
 > [Project Seed:](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
-# Redux codebase containing real world examples (CRUD, auth, advanced patterns, etc)
+# Redux front end to Leaflet Map and AR Toolkit based code containing real world examples (CRUD, auth, advanced patterns, etc)
 
+# Ref:
+
+ http://awesomered
+ https://www.youtube.com/watch?v=xsSnOQynTHs  "Tools don't exist in a vacuum" - Dan Abramov
 
 ## Getting started
 
